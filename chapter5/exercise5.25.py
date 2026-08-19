@@ -8,4 +8,5 @@ while abs(n - (b * b)) > 0.00001:
     b = p
 print(f"A raiz de {n} é aproximadamente {p:4f}")
 
-
+# nesse momento do livro o conceito de "abs" como ta ali na condição do while
+# ainda não tinha sido apresentada, então não tinha nem como eu fazer esse exercicio
