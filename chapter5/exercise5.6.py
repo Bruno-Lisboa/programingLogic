@@ -1,4 +1,4 @@
-n = 2
+n = int(input("Type a number to be multplied fom 0 until 10: "))
 x = 0
 
 while x <= 10:
